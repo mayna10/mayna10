@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Python 3
 - 🌱 I’m currently learning ...Python 3
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...maynardjake161@gmail.com
+- 📫 How to reach me ...jakemayn@iastate.edu
 
 <!---
 mayna10/mayna10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
